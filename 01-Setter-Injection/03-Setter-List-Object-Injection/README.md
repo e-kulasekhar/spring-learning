@@ -1,0 +1,5 @@
+# Setter Injection with List of Objects
+
+## 📌 Definition
+
+This example demonstrates injecting a list of objects into another object using setter methods in Spring.
